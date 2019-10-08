@@ -1,7 +1,5 @@
 # E.D.I.T.H
 
-###### Edith unlike JARVIS is a teacher's personal assistant made to help teachers in our school automate task that might take up valuable time in teacher's life.
-
 ### Things E.D.I.T.H is good at
 
 > Student logging:
