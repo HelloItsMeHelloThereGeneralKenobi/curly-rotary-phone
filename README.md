@@ -23,8 +23,4 @@
 > * Webscrapping school's social media account and publish important information.
 > * Hosting a class website contaning all the to-do list for the class.
 
-##### This is an work in progress project (still in development stage β)
-
-
-&copy; 2019 Aayush Pokharel All Rights Reserved
-
+##### This is an work in progress project
